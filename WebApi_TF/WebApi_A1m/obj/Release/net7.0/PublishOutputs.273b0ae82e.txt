@@ -1,0 +1,12 @@
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\WebApi_A1m.exe
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\WebApi_A1m.dll
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\WebApi_A1m.deps.json
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\WebApi_A1m.runtimeconfig.json
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\WebApi_A1m.pdb
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\OneDrive\Escritorio\webapi2\WebApi_A1m\WebApi_A1m\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
